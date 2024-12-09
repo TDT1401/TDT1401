@@ -17,7 +17,7 @@ Hello, I'm Thuan Tran!
 const thuan = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, PHP, Python],
-  tools: [React, Redux, Node, Laravel, mMysql, Git, Redis, Docker],
+  tools: [React, Redux, Node, Laravel, Mysql, Git, Redis, Docker],
   architecture: ["microservices", "SSO", "design system pattern"],
   challenge: "I am doing the #100DaysOfCode challenge focused on ENGLISH Skill"
 }
