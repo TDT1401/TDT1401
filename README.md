@@ -6,7 +6,7 @@ Hello, I'm Thuan Tran!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&pause=1000&color=000101&lines=BE+Developer;Always+learning+new+things">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&pause=1000&color=000101&lines=WEB+Developer;Always+learning+new+things">
 </p>
 <hr/>
 
