@@ -34,10 +34,10 @@ const thuan = {
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=TDT1401&show_icons=true&count_private=true&theme=radical&hide_border=true"/><br>
 </p>
 
-<!--
+
 ## ***Top Langs***
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDT1401&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
--->
+
 
 
 ## 🙋‍♀️ Let's Contact
