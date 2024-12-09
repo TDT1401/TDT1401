@@ -1,6 +1,6 @@
 <h1 align="center">
-Hello World, I'm Thuan Tran!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+Hello, I'm Thuan Tran!
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 <br/>
 
@@ -12,7 +12,16 @@ Hello World, I'm Thuan Tran!
 
 ### ***About Me***
 <!-- 🌱 I'm learning ***ML*** and ***DL*** 😍 -->
-* fact: I am always trying to learn new things. If you can dream it, you can do it🔥
+<!-- * fact: I am always trying to learn new things. If you can dream it, you can do it🔥 --> 
+```javascript
+const thuan = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS, PHP, Python],
+  tools: [React, Redux, Node, laravel, mysql, git, redis, Docker],
+  architecture: ["microservices", "SSO", "design system pattern"],
+  challenge: "I am doing the #100DaysOfCode challenge focused on ENGLISH Skill"
+}
+```
 
 ## 🔥 Streak Stats
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -24,6 +33,11 @@ Hello World, I'm Thuan Tran!
 <p align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=TDT1401&show_icons=true&count_private=true&theme=radical&hide_border=true"/><br>
 </p>
+
+<!--
+## ***Top Langs***
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDT1401&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+-->
 
 
 ## 🙋‍♀️ Let's Contact
