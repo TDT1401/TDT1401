@@ -8,7 +8,6 @@ Hi, I'm Thuan Tran!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000101&width=435&lines=BE+Developer;Always+learning+new+things)](https://git.io/typing-svg)
-<!-- <img src="https://readme-typing-svg.herokuapp.com?color=%23FD428D&duration=4000&center=true&vCenter=true&lines=FE+%7C+AI+Developer;Always+learning+new+things"> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000101&width=435&lines=BE+Developer;Always+learning+new+things">
 </p>
 <hr/>
