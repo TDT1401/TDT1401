@@ -12,13 +12,12 @@ Hello World, I'm Thuan Tran!
 
 ### ***About Me***
 <!-- 🌱 I'm learning ***ML*** and ***DL*** 😍 -->
-* 😄 Fun fact: I am always trying to learn new things. Even i don't use it yet
+* fact: I am always trying to learn new things. If you can dream it, you can do it🔥
 
 ## 🔥 Streak Stats
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
     <img  alt="Gernii's streak" src="http://github-readme-streak-stats.herokuapp.com?user=TDT1401&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-  <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
 ## ***📊 GitHub Stats***
